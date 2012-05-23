@@ -1,0 +1,33 @@
+body {
+  background-image:url("../images/bg.png");
+  background-repeat:repeat;
+
+  /*
+  font-family: arial, helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  */
+}
+
+#MainBody {
+	width: 1024px;
+  	margin: 0 auto;
+  	background-image:url("../images/burstbg.png");
+ 	background-repeat:no-repeat;
+}
+
+#LoginBox {
+	padding:110px 150px 180px;
+	height:500px;
+	background-image:url("../images/loginbox.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	text-align:center;
+}
+
+#auth{
+  margin-top:-15px;
+  width:100px;
+  border-radius:3px;
+
+}
